@@ -9,6 +9,8 @@ def main_window():
     root.title('BYDDP Notes')
     root.geometry('600x400')
 
+    
+
 
 #generates a 300x200 loading screen
 splash_root = Tk()
